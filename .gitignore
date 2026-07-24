@@ -1,0 +1,12 @@
+*.csv
+*.parquet
+gold_exports/
+s3_data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+spark-warehouse/
+metastore_db/
+derby.log
+.DS_Store
+*.swp
